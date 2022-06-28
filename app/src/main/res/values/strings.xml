@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">App Manager</string>
+    <string name="registrar">Sign Up</string>
+    <string name="ingreso">Sing In</string>
+</resources>
