@@ -17,6 +17,6 @@ public class MenuPrincipal extends AppCompatActivity {
         String usu= intent.getStringExtra("usuarioNombre");
         TextView txtVie= findViewById(R.id.txtMensaje);//Enlace
         txtVie.setText(usu);//Set del mensaje
-        //prueba git
+
     }
 }
