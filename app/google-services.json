@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505485498021",
+    "project_id": "miprimeraapp-e798f",
+    "storage_bucket": "miprimeraapp-e798f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505485498021:android:767ad4003aa28eabdcdf4c",
+        "android_client_info": {
+          "package_name": "com.mateo.siavi.miprimeraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505485498021-0p6bkfn91t0su8l4j75kam9caa16o6sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUimW3pU_WyiC3PH0941McvkJefwzJjxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505485498021-0p6bkfn91t0su8l4j75kam9caa16o6sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
